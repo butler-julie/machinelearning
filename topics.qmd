@@ -1,0 +1,53 @@
+---
+title: "Machine Learning Topics"
+---
+
+# Machine Learning Topics
+
+## Part 1: Formatting Data For Machine Learning
+* Data Cleaning and Normalization
+* Handling Image Data
+* Handling Text Data
+* Feature Engineering
+
+## Part 2: Simple Machine Learning Algorithms
+* Introduction to Machine Learning
+* Linear Regression
+* Ridge and LASSO Regression
+* Bayesian Ridge Regression
+* Logistic Regression
+* Decision Trees and Random Forests
+* Support Vector Machines
+* Kernel Ridge Regression
+* K-Nearest Neighbors
+* Dimensionality Reduction Algorithms
+*  K-Means Clustering
+
+## Part 3: Gaussian Processes
+* Gaussian Process Regression
+* Gaussian Process Classification
+
+## Part 4: Neural Network Based Algorithms
+* Neural Networks
+* Convolutional Neural Networks (CNNs)
+* Pretrained Convolutional Neural Networks
+* Diffusion Models
+* Recurrent Neural Networks (RNNs)
+* Long Short-Term Memory Networks (LSTMs)
+* Autoencoders
+* Variational Autoencoders (VAEs)
+* Generative Adversarial Networks (GANs)
+
+## Part 5: Transformer Based Algorithms
+* Transformers
+* Large Language Models (LLMs)
+* Pretrained Large Language Models
+* Vision Transformers (ViTs)
+
+## Part 6: Reinforcement Learning
+* Q-Learning
+* Deep Q-Networks (DQNs)
+* Policy Gradient Methods
+* Actor-Critic Methods
+
+## Part 7: Agentic Artificial Intelligence

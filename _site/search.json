@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Data Cleaning and Normalization\nHandling Image Data\nHandling Text Data\nFeature Engineering\n\n\n\n\n\nIntroduction to Machine Learning\nLinear Regression\nRidge and LASSO Regression\nBayesian Ridge Regression\nLogistic Regression\nDecision Trees and Random Forests\nSupport Vector Machines\nKernel Ridge Regression\nK-Nearest Neighbors\nDimensionality Reduction Algorithms\nK-Means Clustering\n\n\n\n\n\nGaussian Process Regression\nGaussian Process Classification\n\n\n\n\n\nNeural Networks\nConvolutional Neural Networks (CNNs)\nPretrained Convolutional Neural Networks\nDiffusion Models\nRecurrent Neural Networks (RNNs)\nLong Short-Term Memory Networks (LSTMs)\nAutoencoders\nVariational Autoencoders (VAEs)\nGenerative Adversarial Networks (GANs)\n\n\n\n\n\nTransformers\nLarge Language Models (LLMs)\nPretrained Large Language Models\nVision Transformers (ViTs)\n\n\n\n\n\nQ-Learning\nDeep Q-Networks (DQNs)\nPolicy Gradient Methods\nActor-Critic Methods"
+  },
+  {
+    "objectID": "topics.html#part-1-formatting-data-for-machine-learning",
+    "href": "topics.html#part-1-formatting-data-for-machine-learning",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Data Cleaning and Normalization\nHandling Image Data\nHandling Text Data\nFeature Engineering"
+  },
+  {
+    "objectID": "topics.html#part-2-simple-machine-learning-algorithms",
+    "href": "topics.html#part-2-simple-machine-learning-algorithms",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Introduction to Machine Learning\nLinear Regression\nRidge and LASSO Regression\nBayesian Ridge Regression\nLogistic Regression\nDecision Trees and Random Forests\nSupport Vector Machines\nKernel Ridge Regression\nK-Nearest Neighbors\nDimensionality Reduction Algorithms\nK-Means Clustering"
+  },
+  {
+    "objectID": "topics.html#part-3-gaussian-processes",
+    "href": "topics.html#part-3-gaussian-processes",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Gaussian Process Regression\nGaussian Process Classification"
+  },
+  {
+    "objectID": "topics.html#part-4-neural-network-based-algorithms",
+    "href": "topics.html#part-4-neural-network-based-algorithms",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Neural Networks\nConvolutional Neural Networks (CNNs)\nPretrained Convolutional Neural Networks\nDiffusion Models\nRecurrent Neural Networks (RNNs)\nLong Short-Term Memory Networks (LSTMs)\nAutoencoders\nVariational Autoencoders (VAEs)\nGenerative Adversarial Networks (GANs)"
+  },
+  {
+    "objectID": "topics.html#part-5-transformer-based-algorithms",
+    "href": "topics.html#part-5-transformer-based-algorithms",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Transformers\nLarge Language Models (LLMs)\nPretrained Large Language Models\nVision Transformers (ViTs)"
+  },
+  {
+    "objectID": "topics.html#part-6-reinforcement-learning",
+    "href": "topics.html#part-6-reinforcement-learning",
+    "title": "Machine Learning Topics",
+    "section": "",
+    "text": "Q-Learning\nDeep Q-Networks (DQNs)\nPolicy Gradient Methods\nActor-Critic Methods"
+  }
+]
