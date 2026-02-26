@@ -18,48 +18,48 @@
     "href": "topics.html",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Data Cleaning and Normalization\nHandling Image Data\nHandling Text Data\nFeature Engineering\n\n\n\n\n\nIntroduction to Machine Learning\nLinear Regression\nRidge and LASSO Regression\nBayesian Ridge Regression\nLogistic Regression\nDecision Trees and Random Forests\nSupport Vector Machines\nKernel Ridge Regression\nK-Nearest Neighbors\nDimensionality Reduction Algorithms\nK-Means Clustering\n\n\n\n\n\nGaussian Process Regression\nGaussian Process Classification\n\n\n\n\n\nNeural Networks\nConvolutional Neural Networks (CNNs)\nPretrained Convolutional Neural Networks\nDiffusion Models\nRecurrent Neural Networks (RNNs)\nLong Short-Term Memory Networks (LSTMs)\nAutoencoders\nVariational Autoencoders (VAEs)\nGenerative Adversarial Networks (GANs)\n\n\n\n\n\nTransformers\nLarge Language Models (LLMs)\nPretrained Large Language Models\nVision Transformers (ViTs)\n\n\n\n\n\nQ-Learning\nDeep Q-Networks (DQNs)\nPolicy Gradient Methods\nActor-Critic Methods"
+    "text": "Chapter 1: Data Cleaning and Normalization\nChapter 2: Handling Image Data\nChapter 3: Handling Text Data\nChapter 4: Feature Engineering\n\n\n\n\n\nChapter 5: Introduction to Machine Learning\nChapter 6: Linear Regression\nChapter 7: Ridge and LASSO Regression\nChapter 8: Bayesian Ridge Regression\nChapter 9: Logistic Regression\nChapter 10: Decision Trees and Random Forests\nChapter 11: Support Vector Machines\nChapter 12: Kernel Ridge Regression\nChapter 13: K-Nearest Neighbors\nChapter 14: Dimensionality Reduction Algorithms\nChapter 15: K-Means Clustering\n\n\n\n\n\nChapter 16: Gaussian Process Regression\nChapter 17: Gaussian Process Classification\n\n\n\n\n\nChapter 18: Neural Networks\nChapter 19: Convolutional Neural Networks (CNNs)\nChapter 20: Pretrained Convolutional Neural Networks\nChapter 21: Diffusion Models\nChapter 22: Recurrent Neural Networks (RNNs)\nChapter 23: Long Short-Term Memory Networks (LSTMs)\nChapter 24: Autoencoders\nChapter 25: Variational Autoencoders (VAEs)\nChapter 26: Generative Adversarial Networks (GANs)\n\n\n\n\n\nChapter 27: Transformers\nChapter 28: Large Language Models (LLMs)\nChapter 29: Pretrained Large Language Models\nChapter 30: Vision Transformers (ViTs)\n\n\n\n\n\nChapter 31: Q-Learning\nChapter 32: Deep Q-Networks (DQNs)\nChapter 33: Policy Gradient Methods\nChapter 34: Actor-Critic Methods"
   },
   {
     "objectID": "topics.html#part-1-formatting-data-for-machine-learning",
     "href": "topics.html#part-1-formatting-data-for-machine-learning",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Data Cleaning and Normalization\nHandling Image Data\nHandling Text Data\nFeature Engineering"
+    "text": "Chapter 1: Data Cleaning and Normalization\nChapter 2: Handling Image Data\nChapter 3: Handling Text Data\nChapter 4: Feature Engineering"
   },
   {
     "objectID": "topics.html#part-2-simple-machine-learning-algorithms",
     "href": "topics.html#part-2-simple-machine-learning-algorithms",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Introduction to Machine Learning\nLinear Regression\nRidge and LASSO Regression\nBayesian Ridge Regression\nLogistic Regression\nDecision Trees and Random Forests\nSupport Vector Machines\nKernel Ridge Regression\nK-Nearest Neighbors\nDimensionality Reduction Algorithms\nK-Means Clustering"
+    "text": "Chapter 5: Introduction to Machine Learning\nChapter 6: Linear Regression\nChapter 7: Ridge and LASSO Regression\nChapter 8: Bayesian Ridge Regression\nChapter 9: Logistic Regression\nChapter 10: Decision Trees and Random Forests\nChapter 11: Support Vector Machines\nChapter 12: Kernel Ridge Regression\nChapter 13: K-Nearest Neighbors\nChapter 14: Dimensionality Reduction Algorithms\nChapter 15: K-Means Clustering"
   },
   {
     "objectID": "topics.html#part-3-gaussian-processes",
     "href": "topics.html#part-3-gaussian-processes",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Gaussian Process Regression\nGaussian Process Classification"
+    "text": "Chapter 16: Gaussian Process Regression\nChapter 17: Gaussian Process Classification"
   },
   {
     "objectID": "topics.html#part-4-neural-network-based-algorithms",
     "href": "topics.html#part-4-neural-network-based-algorithms",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Neural Networks\nConvolutional Neural Networks (CNNs)\nPretrained Convolutional Neural Networks\nDiffusion Models\nRecurrent Neural Networks (RNNs)\nLong Short-Term Memory Networks (LSTMs)\nAutoencoders\nVariational Autoencoders (VAEs)\nGenerative Adversarial Networks (GANs)"
+    "text": "Chapter 18: Neural Networks\nChapter 19: Convolutional Neural Networks (CNNs)\nChapter 20: Pretrained Convolutional Neural Networks\nChapter 21: Diffusion Models\nChapter 22: Recurrent Neural Networks (RNNs)\nChapter 23: Long Short-Term Memory Networks (LSTMs)\nChapter 24: Autoencoders\nChapter 25: Variational Autoencoders (VAEs)\nChapter 26: Generative Adversarial Networks (GANs)"
   },
   {
     "objectID": "topics.html#part-5-transformer-based-algorithms",
     "href": "topics.html#part-5-transformer-based-algorithms",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Transformers\nLarge Language Models (LLMs)\nPretrained Large Language Models\nVision Transformers (ViTs)"
+    "text": "Chapter 27: Transformers\nChapter 28: Large Language Models (LLMs)\nChapter 29: Pretrained Large Language Models\nChapter 30: Vision Transformers (ViTs)"
   },
   {
     "objectID": "topics.html#part-6-reinforcement-learning",
     "href": "topics.html#part-6-reinforcement-learning",
     "title": "Machine Learning Topics",
     "section": "",
-    "text": "Q-Learning\nDeep Q-Networks (DQNs)\nPolicy Gradient Methods\nActor-Critic Methods"
+    "text": "Chapter 31: Q-Learning\nChapter 32: Deep Q-Networks (DQNs)\nChapter 33: Policy Gradient Methods\nChapter 34: Actor-Critic Methods"
   }
 ]

@@ -5,49 +5,52 @@ title: "Machine Learning Topics"
 # Machine Learning Topics
 
 ## Part 1: Formatting Data For Machine Learning
-* Data Cleaning and Normalization
-* Handling Image Data
-* Handling Text Data
-* Feature Engineering
+* [Chapter 1: Data Cleaning and Normalization](chapter1.ipynb)
+* [Chapter 2: Handling Image Data](chapter2.ipynb)
+* [Chapter 3: Handling Text Data](chapter3.ipynb)
+* [Chapter 4: Feature Engineering](chapter4.ipynb)
 
 ## Part 2: Simple Machine Learning Algorithms
-* Introduction to Machine Learning
-* Linear Regression
-* Ridge and LASSO Regression
-* Bayesian Ridge Regression
-* Logistic Regression
-* Decision Trees and Random Forests
-* Support Vector Machines
-* Kernel Ridge Regression
-* K-Nearest Neighbors
-* Dimensionality Reduction Algorithms
-*  K-Means Clustering
+* [Chapter 5: Introduction to Machine Learning](chapter5.ipynb)
+* [Chapter 6: Linear Regression](chapter6.ipynb)
+* [Chapter 7: Ridge and LASSO Regression](chapter7.ipynb)
+* [Chapter 8: Bayesian Ridge Regression](chapter8.ipynb)
+* [Chapter 9: Logistic Regression](chapter9.ipynb)
+* [Chapter 10: Decision Trees and Random Forests](chapter10.ipynb)
+* [Chapter 11: Support Vector Machines](chapter11.ipynb)
+* [Chapter 12: Kernel Ridge Regression](chapter12.ipynb)
+* [Chapter 13: K-Nearest Neighbors](chapter13.ipynb)
+* [Chapter 14: Dimensionality Reduction Algorithms](chapter14.ipynb)
+* [Chapter 15: K-Means Clustering](chapter15.ipynb)
 
 ## Part 3: Gaussian Processes
-* Gaussian Process Regression
-* Gaussian Process Classification
+* [Chapter 16: Gaussian Process Regression](chapter16.ipynb)
+* [Chapter 17: Gaussian Process Classification](chapter17.ipynb)
 
 ## Part 4: Neural Network Based Algorithms
-* Neural Networks
-* Convolutional Neural Networks (CNNs)
-* Pretrained Convolutional Neural Networks
-* Diffusion Models
-* Recurrent Neural Networks (RNNs)
-* Long Short-Term Memory Networks (LSTMs)
-* Autoencoders
-* Variational Autoencoders (VAEs)
-* Generative Adversarial Networks (GANs)
+* [Chapter 18: Neural Networks](chapter18.ipynb)
+* [Chapter 19: Convolutional Neural Networks (CNNs)](chapter19.ipynb)
+* [Chapter 20: Pretrained Convolutional Neural Networks](chapter20.ipynb)
+* [Chapter 21: Diffusion Models](chapter21.ipynb)
+* [Chapter 22: Recurrent Neural Networks (RNNs)](chapter22.ipynb)
+* [Chapter 23: Long Short-Term Memory Networks (LSTMs)](chapter23.ipynb)
+* [Chapter 24: Autoencoders](chapter24.ipynb)
+* [Chapter 25: Variational Autoencoders (VAEs)](chapter25.ipynb)
+* [Chapter 26: Generative Adversarial Networks (GANs)](chapter26.ipynb)
 
 ## Part 5: Transformer Based Algorithms
-* Transformers
-* Large Language Models (LLMs)
-* Pretrained Large Language Models
-* Vision Transformers (ViTs)
+* [Chapter 27: Transformers](chapter27.ipynb)
+* [Chapter 28: Large Language Models (LLMs)](chapter28.ipynb)
+* [Chapter 29: Pretrained Large Language Models](chapter29.ipynb)
+* [Chapter 30: Vision Transformers (ViTs)](chapter30.ipynb)
 
 ## Part 6: Reinforcement Learning
-* Q-Learning
-* Deep Q-Networks (DQNs)
-* Policy Gradient Methods
-* Actor-Critic Methods
+* [Chapter 31: Q-Learning](chapter31.ipynb)
+* [Chapter 32: Deep Q-Networks (DQNs)](chapter32.ipynb)
+* [Chapter 33: Policy Gradient Methods](chapter33.ipynb)
+* [Chapter 34: Actor-Critic Methods](chapter34.ipynb)
 
 ## Part 7: Agentic Artificial Intelligence
+* [Chapter 35: Introduction to Agentic AI](chapter35.ipynb)
+* [Chapter 36: Multi-Agent Systems](chapter36.ipynb)
+* [Chapter 37: Reinforcement Learning in Multi-Agent Systems](chapter37.ipynb)
