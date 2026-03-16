@@ -2,3 +2,4 @@
 title: "Machine Learning Notes"
 ---
 
+The materials presented in this website were adapted from a 1.5 semester sequence of course on machine learning at the University of Mount Union. They are written at the undergraduate level and are intended to provide a comprehensive introduction to the field of machine learning. Note that, because of the prerequisites on the courses, the advanced mathematics necessary for a full understanding of some topics may not be covered in depth.
